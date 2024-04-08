@@ -19,7 +19,7 @@ Patched apk is 2 files:
 
 - Python 3
 - Some lib: cloudscraper,...
-- Java 11 with ENV set `java`
+- Java 11 or above with ENV set `java`
 
 #### How to use
 
